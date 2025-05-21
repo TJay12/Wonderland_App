@@ -1,0 +1,36 @@
+2025-05-16 21:15:50,287 - WARNING - Non numerical values entered in scores
+2025-05-16 21:15:54,015 - WARNING - Non numerical values entered in scores
+2025-05-16 21:16:00,887 - WARNING - Non numerical values entered in scores
+2025-05-16 21:16:01,343 - WARNING - Non numerical values entered in scores
+2025-05-16 21:16:05,703 - WARNING - Non numerical values entered in scores
+2025-05-16 21:16:30,916 - WARNING - Non numerical values entered in scores
+2025-05-16 21:16:45,926 - WARNING - Entered number out of score range
+2025-05-16 21:16:50,909 - WARNING - Non numerical values entered in scores
+2025-05-16 21:16:56,197 - INFO - Sarahs scores input successfully: [54, 67, 75]
+2025-05-16 21:16:56,197 - INFO - Average score for Sarah calculated: 65
+2025-05-16 21:16:56,198 - INFO - Grade calculated: F from score: 54
+2025-05-16 21:16:56,198 - INFO - Grade calculated: D from score: 67
+2025-05-16 21:16:56,198 - INFO - Grade calculated: C from score: 75
+2025-05-16 21:16:56,198 - INFO - Sarahs Scores Grades and Average successfully printed
+2025-05-16 21:17:14,645 - INFO - User input running again
+2025-05-16 21:17:41,668 - INFO - Tracys scores input successfully: [73, 87, 94]
+2025-05-16 21:17:41,668 - INFO - Average score for Tracy calculated: 84
+2025-05-16 21:17:41,668 - INFO - Grade calculated: C from score: 73
+2025-05-16 21:17:41,669 - INFO - Grade calculated: B from score: 87
+2025-05-16 21:17:41,669 - INFO - Grade calculated: A from score: 94
+2025-05-16 21:17:41,669 - INFO - Tracys Scores Grades and Average successfully printed
+2025-05-16 21:17:46,916 - INFO - User input app termination
+2025-05-16 21:26:20,839 - INFO - Johns scores input successfully: [56, 87, 98]
+2025-05-16 21:26:20,840 - INFO - Average score for John calculated: 80
+2025-05-16 21:26:20,840 - INFO - Grade calculated: F from score: 56
+2025-05-16 21:26:20,840 - INFO - Grade calculated: B from score: 87
+2025-05-16 21:26:20,840 - INFO - Grade calculated: A from score: 98
+2025-05-16 21:26:20,840 - INFO - Johns Scores Grades and Average successfully printed
+2025-05-16 21:26:24,015 - INFO - User input running again
+2025-05-16 21:26:33,879 - INFO - Julies scores input successfully: [87, 79, 95]
+2025-05-16 21:26:33,879 - INFO - Average score for Julie calculated: 87
+2025-05-16 21:26:33,879 - INFO - Grade calculated: B from score: 87
+2025-05-16 21:26:33,879 - INFO - Grade calculated: C from score: 79
+2025-05-16 21:26:33,879 - INFO - Grade calculated: A from score: 95
+2025-05-16 21:26:33,879 - INFO - Julies Scores Grades and Average successfully printed
+2025-05-16 21:26:57,359 - INFO - User input app termination
