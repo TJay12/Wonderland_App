@@ -64,7 +64,7 @@ def calculate_grade(score):
     # Return the value grade
     return grade
 
-# <--- Main Function to run Program --->
+    # <--- Main Function to run Program --->
 def main():
     while True:
         learner_name = input("Enter Learners Name: ").lower().capitalize()
