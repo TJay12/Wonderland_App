@@ -1,0 +1,19 @@
+2025-05-22 18:29:34,293 - INFO - Hazels scores input successfully: [56, 76, 98]
+2025-05-22 18:29:34,294 - INFO - Average score for Hazel calculated: 76
+2025-05-22 18:29:34,294 - INFO - Grade calculated: F from score: 56
+2025-05-22 18:29:34,294 - INFO - Grade calculated: C from score: 76
+2025-05-22 18:29:34,294 - INFO - Grade calculated: A from score: 98
+2025-05-22 18:29:34,294 - INFO - Hazels Scores Grades and Average successfully printed
+2025-05-22 18:29:51,709 - INFO - User input running again
+2025-05-31 10:27:51,546 - INFO - Sarahs scores input successfully: [78, 85, 93]
+2025-05-31 10:27:51,546 - INFO - Average score for Sarah calculated: 85
+2025-05-31 10:27:51,546 - INFO - Grade calculated: C from score: 78
+2025-05-31 10:27:51,546 - INFO - Grade calculated: B from score: 85
+2025-05-31 10:27:51,546 - INFO - Grade calculated: A from score: 93
+2025-05-31 10:27:51,547 - INFO - Sarahs Scores Grades and Average successfully printed
+2025-05-31 10:30:43,085 - INFO - User input app termination
+2025-05-31 10:46:37,276 - INFO - Sarahs scores input successfully: [78, 86, 93]
+2025-05-31 10:46:37,276 - INFO - Average score for Sarah calculated: 85
+2025-05-31 10:46:37,277 - INFO - Grade calculated: C from score: 78
+2025-05-31 10:46:37,277 - INFO - Grade calculated: B from score: 86
+2025-05-31 10:46:37,277 - INFO - Grade calculated: A from score: 93
